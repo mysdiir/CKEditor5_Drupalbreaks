@@ -1,0 +1,9 @@
+ckeditor5_drupalbreaks:
+  js:
+    js/build/ckeditor5_drupalbreaks.js: { preprocess: false, minified: false }
+  dependencies:
+    - core/ckeditor5
+admin.demobox:
+  css:
+    theme:
+      css/stylesheet.css: { }

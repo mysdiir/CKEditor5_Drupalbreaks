@@ -1,0 +1,7 @@
+name: CKEditor 5 - Drupalbreaks
+type: module
+description: "Adds plugin for inserting Drupal teaser and page breaks to CKEditor."
+package: CKEditor 5
+core_version_requirement: ^9 || ^10
+dependencies:
+  - drupal:ckeditor5

@@ -1,0 +1,10 @@
+# ignore IDE files
+.idea/
+
+# ignore ckeditor basic classes
+node_modules/
+
+# ingore jsons
+package.json
+package-lock.json
+yarn.lock

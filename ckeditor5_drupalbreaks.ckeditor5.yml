@@ -1,0 +1,14 @@
+ckeditor5_drupalbreaks:
+  ckeditor5:
+    plugins:
+    - ckeditor5_drupalbreaks.Drupalbreaks
+  drupal:
+    label: CKEditor 5 - Drupalbreaks
+    library: ckedtior5_drupalbreaks/drupalbreaks
+    admin_library: ckeditor5_drupalbreaks/admin.stylesheet
+    toolbar_items:
+      simpleBox:
+        label: CKEditor 5 - Drupalbreaks
+    elements:
+      - <drupalbreaks>
+
